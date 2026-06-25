@@ -1,0 +1,6 @@
+{
+  "name": "FinQuest",
+  "description": "Bütçe yönetimi, sanal borsa simülasyonu ve finansal sağlık analizini birleştiren oyunlaştırılmış finansal okuryazarlık uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
